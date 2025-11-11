@@ -12,3 +12,10 @@ If you want to keep this out of the original game directory you could probably e
 Please note:
 
 I have not tested the Ressurected Version as I mainly play CampForestGreen but it should work, hopefully
+
+
+V2 Edit:
+
+No longer using BAt2Exe by Dehoisted. Now using this one by Islam Adel: https://bat2exe.net/
+
+Binaries have been Recompiled and it seems to be working as intended now.
