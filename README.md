@@ -1,4 +1,4 @@
-Hi this is a pretty simple application I made using "Bat2Exe" by dehoisted. "https://github.com/dehoisted/Bat2Exe"
+Hi this is a pretty simple bat file I made using "Bat2Exe" by dehoisted. "https://github.com/dehoisted/Bat2Exe"
 
 For both the mods by Alekos.
 https://www.youtube.com/channel/UCwRv34XbBRJRJU_eefi78pw
