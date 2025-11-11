@@ -1,2 +1,2 @@
 @echo off
-START /WAIT "EAC_Launcher" "Start_CampForestGreen.exe"
+START /WAIT "EAC_Launcher" "SummerCamp.exe"
